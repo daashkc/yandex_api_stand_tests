@@ -1,0 +1,2 @@
+# yandex_api_stand_tests
+qa_plus_yandex_project
